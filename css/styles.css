@@ -181,10 +181,6 @@ body {
 
 /*contact*/
 
-#conpage {
-    background-color: #84a9ac;
-}
-
 a.contactlink:link,
 a.contactlink:visited {
     border-radius: 10px;
