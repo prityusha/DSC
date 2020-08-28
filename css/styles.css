@@ -1,0 +1,249 @@
+/* TITLE */
+
+#title {
+    background-color: #84a9ac;
+}
+
+body {
+    /*font-family: 'Montserrat-Regular', sans-serif;*/
+    font-family: 'Libre Baskerville', serif;
+}
+
+#title h1 {
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title .container-fluid {
+    padding: 3% 15%;
+}
+
+#title img {
+    transform: rotate(10deg);
+    border-radius: 1%;
+    width: 90%;
+}
+
+#title .row {
+    margin-top: 4.5rem;
+}
+
+#title .row h1 {
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 7px;
+}
+
+.nav-item {
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 1rem;
+}
+
+.navbar {
+    padding: 18px 0px;
+}
+
+.title-button {
+    margin: 3.5rem 0 0 0;
+}
+
+
+/* FEATURE */
+
+#feature {
+    background-color: white;
+    position: relative;
+}
+
+.feat {
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+
+#features .container-fluid {
+    padding: 3% 15%;
+    margin: 5% 0;
+}
+
+
+/* #features {
+    margin: 40px 0 40px 0;
+}
+ */
+
+.fa-check-circle {
+    color: #ef8172;
+}
+
+.fa-check-circle:hover {
+    color: darkslategrey;
+}
+
+.fa-bullseye {
+    color: #ef8172;
+}
+
+.fa-bullseye:hover {
+    color: darkslategrey;
+}
+
+.fa-heart {
+    color: #ef8172;
+}
+
+.fa-heart:hover {
+    color: darkslategrey;
+}
+
+
+/* testimonials */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.test-seperate {
+    padding: 3% 15%;
+}
+
+.test-h2 {
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    line-height: 3.5rem;
+    color: white;
+}
+
+#testimonials img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 50px;
+}
+
+
+/* press */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 10px 0px 40px;
+}
+
+.press-img {
+    width: 15%;
+}
+
+#cta {
+    margin-top: 40px;
+}
+
+
+/*Pricing*/
+
+#pricing .card_image {
+    width: 100%;
+    height: 60;
+}
+
+#pricing .project-title {
+    text-align: center;
+}
+
+#pricing {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+#cta {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+}
+
+#foot {
+    padding: 60px 0 60px;
+    background-color: #84a9ac;
+}
+
+
+/*contact*/
+
+#con-page {
+    background-color: #84a9ac;
+}
+
+a.contactlink:link,
+a.contactlink:visited {
+    border-radius: 10px;
+    background-color: #006a71;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+a.contactlink:hover,
+a.contactlink:active {
+    background-color: #d3de32;
+}
+
+.contactpageinfo {
+    text-align: center;
+}
+
+.Formincontact {
+    float: left;
+    margin-left: 100px;
+}
+
+.Formincontact .submit {
+    border-radius: 10px;
+    background-color: #318fb5;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+}
+
+.Formincontact .submit:hover {
+    background-color: #005086;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.contactformimage1 {
+    margin-left: 250px;
+    float: left;
+}
+
+.h2dropusaline {
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.contactdiv1 {
+    clear: both;
+}
